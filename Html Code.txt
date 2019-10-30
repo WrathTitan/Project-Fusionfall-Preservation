@@ -21,6 +21,11 @@ img {
 <img src="Spider.jpg" alt="Spider">
 <img src="Spider2.jpg" alt="Spider">
 <img src="Vehicle.jpg" alt="Vehicles">
+<img src="Vehicle2.jpg" alt="Vehicles">
+<img src="Ace.png" alt="Ace">
+<img src="Loading.jpg" alt="Loading">
+<img src="About_story.png" alt="Story">
+<img src="Savingtheearth.png" alt="Saving The Earth">
 
 </body>
 </html>
